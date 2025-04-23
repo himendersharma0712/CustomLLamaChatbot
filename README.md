@@ -1,4 +1,4 @@
-# Llama powered customized chatbot 🤖
+# Llama powered customized chatbots 🤖
 ---------------------------------------
 * This repository contains custom llama powered chatbots with persistent and temporary memory storing abilities.
 * Optionally, pdf data can also be fed to the bot to answer questions from it.
