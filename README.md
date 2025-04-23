@@ -5,6 +5,6 @@
 
 ## Acknowledgments
 
-This project uses the LLaMA language model developed by Meta. We would like to give credit to Meta for creating and releasing LLaMA, which serves as the foundation for this chatbot.
+This project uses the LLaMA language model developed by Meta. I would like to give credit to Meta for creating and releasing LLaMA, which serves as the foundation for this chatbot.
 
 Check out the official LLaMA repository here: [Meta's LLaMA GitHub](https://github.com/facebookresearch/llama)
